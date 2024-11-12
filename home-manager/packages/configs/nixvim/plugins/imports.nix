@@ -1,5 +1,7 @@
 {
     imports = [
-        treesitter.nix
+        ./lsp/imports.nix
+
+        ./treesitter.nix
     ];
 }
