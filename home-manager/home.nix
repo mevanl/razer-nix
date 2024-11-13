@@ -1,6 +1,6 @@
 {
 	imports = [
-		./packages/packages.nix
+		./packages/default.nix
 	];
 
 	home = {
