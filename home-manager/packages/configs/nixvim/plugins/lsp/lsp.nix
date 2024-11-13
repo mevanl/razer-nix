@@ -13,6 +13,7 @@
             servers = {
                 nil_ls.enable = true;
                 marksman.enable = true; 
+                clangd.enable = true;
             };
         };
     };
