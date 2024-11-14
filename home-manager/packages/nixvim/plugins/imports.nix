@@ -5,6 +5,7 @@
         ./lualine.nix
         ./render-markdown.nix
         ./telescope.nix
+        ./transparent.nix
         ./treesitter.nix
     ];
 }
